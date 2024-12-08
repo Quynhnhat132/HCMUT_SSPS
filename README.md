@@ -1,1 +1,1 @@
-# HCMUT_SSPS
+# Respository for HCMUT Stuedent Smart Printing Service
